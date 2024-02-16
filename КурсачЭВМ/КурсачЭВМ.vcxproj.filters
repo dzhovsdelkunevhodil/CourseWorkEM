@@ -20,8 +20,41 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Actions.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
+    <Text Include="INT8reg.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="INT8mem.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="INT16reg.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="INT16mem.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="INT32reg.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="INT32mem.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="INT64reg.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="INT64mem.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="FLOATreg.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="FLOATmem.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="DOUBLEreg.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="DOUBLEmem.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -142,7 +142,18 @@
     <ClCompile Include="КурсачЭВМ.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Actions.h" />
+    <Text Include="DOUBLEmem.txt" />
+    <Text Include="DOUBLEreg.txt" />
+    <Text Include="FLOATmem.txt" />
+    <Text Include="FLOATreg.txt" />
+    <Text Include="INT16mem.txt" />
+    <Text Include="INT16reg.txt" />
+    <Text Include="INT32mem.txt" />
+    <Text Include="INT32reg.txt" />
+    <Text Include="INT64mem.txt" />
+    <Text Include="INT64reg.txt" />
+    <Text Include="INT8mem.txt" />
+    <Text Include="INT8reg.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
